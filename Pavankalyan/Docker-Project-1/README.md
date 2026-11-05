@@ -1,4 +1,4 @@
-# Docker Module – Foundational Capstone Project 1
+<img width="2396" height="1644" alt="image" src="https://github.com/user-attachments/assets/d0ced3ea-6025-447e-a8e0-2603b7ac4cdb" /># Docker Module – Foundational Capstone Project 1
 
 ## Deploy the App to the Cloud
 
@@ -137,13 +137,13 @@ sudo systemctl status docker --no-pager
 
 ```
 sudo dnf install git -y
-git clone <YOUR-REPOSITORY-URL>
+git clone https://github.com/pavankalyan77377-afk/te-5th_and_6th_batch_assignments.git
 ```
 
 Move to the project directory:
 
 ```
-cd Relentless-Tracker
+cd te-5th_and_6th_batch_assignments/Pavankalyan/Docker_Project-1
 ```
 
 ### Step 9: Create the Environment Files
